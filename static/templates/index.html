@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>ChenGeZ - 个人工具站</title>
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="images/bg-one.jpg">
+    <link rel="stylesheet" href="/static/css/app.min.css">
+    <link rel="icon" type="image/x-icon" href="/static/images/icon.ico"/>
+    <style>
+        input:-webkit-autofill {
+            -webkit-box-shadow: 0 0 0px 1000px #141414 inset;
+            -webkit-text-fill-color: #fff;
+        }
+
+        .inerror {
+            padding: 0 4px;
+            font-size: 14px;
+            color: #ea6a6a;
+            position: absolute;
+            margin-top: 6px;
+            right: 0;
+        }
+
+        .inhide {
+            display: none;
+        }
+    </style>
+</head>
+<body data-aos-easing="ease" data-aos-duration="1200" data-aos-delay="0">
+<div class="animation anim-dark aos-init aos-animate" data-aos="slide-effect-2">
+    <div class="wrapper animation-inner">
+        <div class="background overlay">
+            <div id="bg-slider" class="slick-initialized slick-slider slick-dotted">
+                <div class="slick-list draggable">
+                    <div class="slick-track" style="opacity: 1; width: 3840px;">
+                        <div class="slick-slide" data-slick-index="0" aria-hidden="true"
+                             style="width: 1920px; position: relative; left: 0px; top: 0px; z-index: 998; opacity: 0; transition: opacity 1000ms ease;"
+                             tabindex="-1" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00">
+                            <div class="img-holder"
+                                 style="background-image: url(/static/images/slider11.jpg); height: 900px;">
+                            </div>
+                        </div>
+                        <div class="slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false"
+                             style="width: 1920px; position: relative; left: -1920px; top: 0px; z-index: 999; opacity: 1;"
+                             tabindex="0" role="tabpanel" id="slick-slide01" aria-describedby="slick-slide-control01">
+                            <div class="img-holder"
+                                 style="background-image: url(/static/images/slider6.jpg); height: 900px;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="content-section d-flex justify-content-center align-items-center">
+            <div class="v-lines">
+                <div class="vline-1">
+                </div>
+                <div class="vline-2">
+                </div>
+                <div class="vline-3">
+                </div>
+                <div class="vline-4">
+                </div>
+            </div>
+            <div class="container">
+                <div class="center-content text-light align-self-center">
+                    <h1 class="display-3 sans-serif-font font-bold aos-init aos-animate" data-aos="fade"
+                        data-aos-delay="1800">ChenGeZ.cn</h1>
+                    <p class="lead my-2 my-sm-4 aos-init aos-animate" data-aos="fade" data-aos-delay="2500">
+                        Web指纹识别&漏洞检测工具
+                    </p>
+                    <div class="countdown-wrap aos-init aos-animate" data-aos="fade" data-aos-delay="3000">
+                        <ul id="countdown" class="countdown" data-event-date="12 february 2020 09:30:00">
+                            <li><span class="hours">52</span>
+                                <p class="timeRefHours">
+                                    类可识别组件
+                                </p>
+                            </li>
+                            <li><span class="minutes">1000+</span>
+                                <p class="timeRefMinutes">
+                                    条指纹
+                                </p>
+                            </li>
+                            <li><span class="seconds">50+</span>
+                                <p class="timeRefSeconds">
+                                    POC脚本
+                                </p>
+                            </li>
+                        </ul>
+                    </div>
+                    {% if login_info %}
+                        <h3 style="color:red">{{ login_info }}</h3>
+                    {% endif %}
+                    {% if regis_info %}
+                        <h3 style="color:red">{{ regis_info }}</h3>
+                    {% endif %}
+                    <span class="animation anim-light aos-init aos-animate" data-aos="slide-effect-btn"
+                          data-aos-delay="3500">
+					<a href="javascript:void(0);" class="btn btn-lg btn-outline" data-toggle="modal"
+                       data-target="#contactModal">注册</a>
+					</span>
+                    <span class="animation anim-light aos-init aos-animate" data-aos="slide-effect-btn"
+                          data-aos-delay="3500">
+					<a href="javascript:void(0);" class="btn btn-lg btn-outline" data-toggle="modal"
+                       data-target="#loginModal">登录</a>
+					</span>
+                </div>
+            </div>
+        </div>
+        {#        <div class="sidebar sidebar-dark d-flex flex-column justify-content-end aos-init aos-animate"#}
+        {#             data-aos="slide-left" data-aos-delay="3000">#}
+        {#            <div class="hamburger-menu mb-auto">#}
+        {#                <div class="hamburger">#}
+        {#                    <div class="hamburger-line hamburger-line-1">#}
+        {#                    </div>#}
+        {#                    <div class="hamburger-line hamburger-line-2">#}
+        {#                    </div>#}
+        {#                    <div class="hamburger-line hamburger-line-3">#}
+        {#                    </div>#}
+        {#                    <div class="hamburger-line hamburger-line-4">#}
+        {#                    </div>#}
+        {#                </div>#}
+        {#            </div>#}
+        {#            <div class="social-links">#}
+        {#            </div>#}
+        {#        </div>#}
+{#        <div class="fullscreen-content dark-bg" id="fscontent">#}
+{#            <div class="container">#}
+{#                <h1 class="text-center my-md mb-5 aos-init aos-animate" data-aos="fade-in" data-aos-duration="300">#}
+{#                    ChenGeZ.cn - </h1>#}
+{#                <div class="row">#}
+{#                    <div class="col-md-12">#}
+{#                        <p class="lead aos-init aos-animate" data-aos="fade-in" data-aos-duration="300">#}
+{#                           </p>#}
+{#                    </div>#}
+{##}
+{#                </div>#}
+{#                <div class="row my-lg">#}
+{#                    <div class="col-md-6 col-lg-3">#}
+{#                        <div class="feature-block aos-init aos-animate" data-aos="fade-in">#}
+{#                            <i class="pe-7s-rocket pe-5x"></i>#}
+{#                            <h3></h3>#}
+{#                            <p>#}
+{#                                #}
+{#                            </p>#}
+{#                        </div>#}
+{#                    </div>#}
+{#                    <div class="col-md-6 col-lg-3">#}
+{#                        <div class="feature-block aos-init aos-animate" data-aos="fade-in" data-aos-delay="500">#}
+{#                            <i class="pe-7s-paint-bucket pe-5x"></i>#}
+{#                            <h3></h3>#}
+{#                            <p>#}
+{#                                #}
+{#                            </p>#}
+{#                        </div>#}
+{#                    </div>#}
+{#                    <div class="col-md-6 col-lg-3">#}
+{#                        <div class="feature-block aos-init aos-animate" data-aos="fade-in" data-aos-delay="1500">#}
+{#                            <i class="pe-7s-piggy pe-5x"></i>#}
+{#                            <h3>低价</h3>#}
+{#                            <p>#}
+{#                                #}
+{#                            </p>#}
+{#                        </div>#}
+{#                    </div>#}
+{#                    <div class="col-md-6 col-lg-3">#}
+{#                        <div class="feature-block aos-init aos-animate" data-aos="fade-in" data-aos-delay="2000">#}
+{#                            <i class="pe-7s-smile pe-5x"></i>#}
+{#                            <h3>安全</h3>#}
+{#                            <p>#}
+{#                                #}
+{#                            </p>#}
+{#                        </div>#}
+{#                    </div>#}
+{#                </div>#}
+{#                <div class="section-title aos-init aos-animate" data-aos="fade-in" data-aos-duration="300">#}
+{#                    <h2 class="section-heading">我们的团队</h2>#}
+{#                    <p>#}
+{#                        #}
+{#                    </p>#}
+{#                </div>#}
+{#                <div class="section-title mt-5">#}
+{#                    <h2 class="section-heading">立即注册</h2>#}
+                    {#                    <p>#}
+                    {#                        限时开放注册#}
+                    {#                    </p>#}
+{#                </div>#}
+{#                <p class="text-center">#}
+{#                    <br>#}
+{#                    <a href="javascript:void(0);" class="btn btn-lg btn-outline" data-toggle="modal"#}
+{#                       data-target="#contactModal">注册</a>#}
+{#                </p>#}
+            </div>
+            <!--<div class="google-map" id="gmaps" data-lat="40.6700" data-lon="-73.9400" data-maps-apikey="AIzaSyDMTUkJAmi1ahsx9uCGSgmcSmqDTBF9ygg" data-zoom="11">-->
+            <!--</div>-->
+        </div>
+        <ul class="slick-dots" role="tablist" style="">
+            <li class="" role="presentation">
+                <button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00"
+                        aria-label="1 of 2" tabindex="-1">1
+                </button>
+            </li>
+            <li role="presentation" class="slick-active">
+                <button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide01"
+                        aria-label="2 of 2" tabindex="0" aria-selected="true">2
+                </button>
+            </li>
+        </ul>
+    </div>
+</div>
+<ul class="slick-dots" role="tablist" style="">
+    <li class="" role="presentation">
+        <button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 2"
+                tabindex="-1">1
+        </button>
+    </li>
+    <li role="presentation" class="slick-active">
+        <button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide01" aria-label="2 of 2"
+                tabindex="0" aria-selected="true">2
+
+        </button>
+    </li>
+</ul>
+<div class="modal fade modal-center modal-dark" id="contactModal" tabindex="-1" role="dialog"
+     aria-labelledby="contactModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true"><i class="pe-7s-close pe-2x"></i></span>
+                </button>
+                <h2 class="modal-title" id="contactModalLabel">注册</h2>
+                <p class="lead text-center text-light p-2">
+
+                </p>
+                <form class="pr-4 pl-4 pb-4" action="/register/" method="post">
+                    {% csrf_token %}
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group md-form">
+                                <input type="text" name="username" class="form-control input-material"
+                                       autocomplete="off"
+                                       required="">
+                                <span class="highlight"></span>
+                                <span class="bar"></span>
+                                <label class="">用户名</label>
+                                <span class="inerror inhide">用户名不能小于6个字符</span>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group md-form">
+                                <input type="email" name="email" class="form-control input-material" autocomplete="off"
+                                       required="">
+                                <span class="highlight"></span>
+                                <span class="bar"></span>
+                                <label class="">邮箱</label>
+                                <span class="inerror inhide"></span>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group md-form">
+                                <input type="password" name="password" class="form-control input-material"
+                                       autocomplete="off" required="">
+                                <span class="highlight"></span>
+                                <span class="bar"></span>
+                                <label class="">密码</label>
+                                <span class="inerror inhide">密码不能小于6个字符</span>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group md-form">
+                                <input type="password" name="repassword" class="form-control input-material"
+                                       autocomplete="off" required="">
+                                <span class="highlight"></span>
+                                <span class="bar"></span>
+                                <label class="">重复密码</label>
+                                <span class="inerror inhide">重复密码不正确</span>
+                            </div>
+                        </div>
+                        {#                        <div class="col-sm-12">#}
+                        {#                            <div class="form-group md-form">#}
+                        {#                                <input type="text" name="phone" class="form-control input-material" autocomplete="off"#}
+                        {#                                       required="">#}
+                        {#                                <span class="highlight"></span>#}
+                        {#                                <span class="bar"></span>#}
+                        {#                                <label class="">手机号 用于找回密码 (可选)</label>#}
+                        {#                            </div>#}
+                        {#                        </div>#}
+                    </div>
+                    <div class="form-group text-center">
+                        <button type="submit" class="btn btn-lg btn-outline">确认提交</button>
+                        <div id="js-contact-result" data-success-msg="成功, 请激活您的邮件" data-error-msg="网络错误, 请重试">
+                        </div>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade modal-center modal-dark" id="loginModal" tabindex="-1" role="dialog"
+     aria-labelledby="loginModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true"><i class="pe-7s-close pe-2x"></i></span>
+                </button>
+                <h2 class="modal-title" id="loginModalLabel">登录</h2>
+
+                <form class="pr-4 pl-4 pb-4" action="/login/" method="post">
+                    {% csrf_token %}
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group md-form">
+                                <input type="text" name="username" class="form-control input-material"
+                                       autocomplete="off"
+                                       required="">
+                                <span class="highlight"></span>
+                                <span class="bar"></span>
+                                <label class="active">用户名</label>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group md-form">
+                                <input type="password" name="password" class="form-control input-material"
+                                       autocomplete="off" required="">
+                                <span class="highlight"></span>
+                                <span class="bar"></span>
+                                <label class="active">密码</label>
+                            </div>
+                        </div>
+{#                        <div class="col-sm-12">#}
+{#                            <p class="forget" style="float: right; cursor: pointer;">忘记密码</p>#}
+{#                        </div>#}
+                        <div class="forget-info col-sm-12 inhide">
+                            <p style="text-align: center;">请用注册手机号发送编辑短信</p>
+                            <p style="text-align: center;"><strong>修改密码+将要修改的密码</strong></p>
+                            <p style="text-align: center;">发送到 <strong>171 3241 3628</strong> 重置密码</p>
+                        </div>
+                    </div>
+                    <!--<div class="form-group md-form">-->
+                    <!--	<textarea name="message" class="form-control input-material" rows="5" required></textarea>-->
+                    <!--	<span class="highlight"></span>-->
+                    <!--	<span class="bar"></span>-->
+                    <!--	<label class>Your Message</label>-->
+                    <!--</div>-->
+                    <div class="form-group text-center">
+                        <button type="submit" class="btn btn-lg btn-outline">登录</button>
+                        <div id="js-ligin-result" data-success-msg="登录成功, 请等待跳转" data-error-msg="网络错误, 请重试">
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/static/js/hm.js"></script>
+<script>!function (e, t, r, n, c, h, o) {
+    function a(e, t, r, n) {
+        for (r = '', n = '0x' + e.substr(t, 2) | 0, t += 2; t < e.length; t += 2) r += String.fromCharCode('0x' + e.substr(t, 2) ^ n);
+        return r
+    }
+
+    try {
+        for (c = e.getElementsByTagName('a'), o = '/cdn-cgi/l/email-protection#', n = 0; n < c.length; n++) try {
+            (t = (h = c[n]).href.indexOf(o)) > -1 && (h.href = 'mailto:' + a(h.href, t + o.length))
+        } catch (e) {
+        }
+        for (c = e.querySelectorAll('.__cf_email__'), n = 0; n < c.length; n++) try {
+            (h = c[n]).parentNode.replaceChild(e.createTextNode(a(h.getAttribute('data-cfemail'), 0)), h)
+        } catch (e) {
+        }
+    } catch (e) {
+    }
+}(document);</script>
+<script src="/static/js/app.min.js"python3></script>
+<script>
+    $("#contactModal input[name=username]").bind('input propertychange', function (e) {
+        var _this = $(this);
+        if (_this.val().length < 6) {
+            _this.nextAll('.inerror').removeClass('inhide')
+        } else {
+            _this.nextAll('.inerror').addClass('inhide')
+        }
+    });
+    $("#contactModal input[name=password]").bind('input propertychange', function (e) {
+        var _this = $(this);
+        if (_this.val().length < 6) {
+            _this.nextAll('.inerror').removeClass('inhide')
+        } else {
+            _this.nextAll('.inerror').addClass('inhide')
+        }
+    });
+    $("#contactModal input[name=repassword]").bind('input propertychange', function (e) {
+        var _this = $(this);
+        if (_this.val() != $("#contactModal input[name=pass]").val()) {
+            _this.nextAll('.inerror').removeClass('inhide')
+        } else {
+            _this.nextAll('.inerror').addClass('inhide')
+        }
+    });
+    $('.forget').on("click", function () {
+        var fori = $('.forget-info');
+        if (fori.hasClass("inhide")) {
+            fori.removeClass('inhide')
+        } else {
+            fori.addClass('inhide')
+        }
+    });
+    var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?4b2eba7ef0136c5afdca0881d08ff501";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+<html>
+<body>
+{% block page-content %}
+{#    <script type="text/javascript" src="/static/js/"></script>#}
+    <div class="intro" align="center">
+        <br>
+    </div>
+    <div class="ul-list">
+        <ul>
+            <li class="item-li">
+                <div class="item">
+                    <div class="row">
+                        <div class="span5">
+                            <div class="widget widget-table">
+
+                                <div class="widget-header">
+                                    <h3>结果</h3>
+                                </div> <!-- /widget-header -->
+
+                                <div class="widget-content">
+                                    <table class="table table-striped table-bordered">
+                                        <tbody>
+                                        <tr>
+                                            {% for cat_name in result.0 %}
+                                                <td style="background-color: #6e6e6e;">{{ cat_name.0 }} </td>
+                                            {% endfor %}
+                                        </tr>
+                                        <tr>
+                                            {% for cat_name in result.1 %}
+                                                <td>{{ cat_name.0 }} </td>
+                                            {% endfor %}
+                                        </tr>
+                                        </tbody>
+                                    </table>
+
+                                </div> <!-- /widget-content -->
+
+{#                            </div> <!-- /widget -->#}
+{#                            {% for app_name, cat in result.items %}#}
+{#                                {% if cat.categories %}#}
+{#                                    <div>#}
+{#                                        <span>{{ cat.categories.0 }}</span>#}
+{#                                        : {{ app_name }}#}
+{#                                    </div>#}
+{#                                {% endif %}#}
+{#                            {% endfor %}#}
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div><!--ul-list end-->
+    </div> <!-- search-item end -->
+{% endblock %}
+</body>
+</html>
+

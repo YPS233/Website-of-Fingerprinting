@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e1c03e5-152d-4e79-a19a-0e41aac134eb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MyZoomEye$ont.coverage" NAME="ont Coverage Results" MODIFIED="1502676088121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$wappalyzer.coverage" NAME="wappalyzer Coverage Results" MODIFIED="1518320815518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/WebDetect" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$exp_module.coverage" NAME="exp_module Coverage Results" MODIFIED="1510460187970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/Attack_frameword/lib" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$Wantphone.coverage" NAME="Wantphone Coverage Results" MODIFIED="1512633960171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MypythonProject/Spider" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$faq_sqlin_exploit.coverage" NAME="faq_sqlin_exploit Coverage Results" MODIFIED="1510474036688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/Attack_frameword/exploit/discuz" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$sqlhelper__1_.coverage" NAME="sqlhelper (1) Coverage Results" MODIFIED="1510305206528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/Attack_frameword/lib" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$scanner.coverage" NAME="scanner Coverage Results" MODIFIED="1501037680464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/WebDetect/discuz_cms_detect" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$installdata.coverage" NAME="installdata Coverage Results" MODIFIED="1515483670527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/WebDetect/discuz_cms_detect" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$discuz_detector.coverage" NAME="discuz_detector Coverage Results" MODIFIED="1515483345278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/WebDetect/discuz_cms_detect" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$detect.coverage" NAME="detect Coverage Results" MODIFIED="1518321568476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/WebDetect" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$showsafecli.coverage" NAME="showsafecli Coverage Results" MODIFIED="1510302592069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/Attack_frameword" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$sqlhelper.coverage" NAME="sqlhelper Coverage Results" MODIFIED="1520495063005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/Attack_frameword/lib" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$mutithreadworker.coverage" NAME="mutithreadworker Coverage Results" MODIFIED="1501480882530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/WebDetect/discuz_cms_detect" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$exp_http.coverage" NAME="exp_http Coverage Results" MODIFIED="1501818320884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/Attack_frameword/libs" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$Detect.coverage" NAME="Detect Coverage Results" MODIFIED="1519035939228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/WebDetect" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$wordpress_plugin_mailpress_rce.coverage" NAME="wordpress_plugin_mailpress_rce Coverage Results" MODIFIED="1520135179535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$geoipprovider.coverage" NAME="geoipprovider Coverage Results" MODIFIED="1515480428674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/GeoIP" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$discuz_feature.coverage" NAME="discuz_feature Coverage Results" MODIFIED="1500432735095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/WebDetect/discuz_cms_detect" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$test.coverage" NAME="test Coverage Results" MODIFIED="1518344651676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/WebDetect" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$exp_http__1_.coverage" NAME="exp_http (1) Coverage Results" MODIFIED="1510459649066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/Attack_frameword/lib" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$Test__Plug_WebDetect_rule1_txt.coverage" NAME="Test: Plug.WebDetect.rule1.txt Coverage Results" MODIFIED="1515826698694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$cmscan.coverage" NAME="cmscan Coverage Results" MODIFIED="1515814471282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/WebDetect" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$rulespider.coverage" NAME="rulespider Coverage Results" MODIFIED="1515827369528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/WebDetect" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$discuz_hunter.coverage" NAME="discuz_hunter Coverage Results" MODIFIED="1515736392175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/WebDetect/discuz_cms_detect" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$wordpress_comment_storeXSS.coverage" NAME="wordpress_comment_storeXSS Coverage Results" MODIFIED="1520334212458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress" />
+    <SUITE FILE_PATH="coverage/MyZoomEye$ip_reverse.coverage" NAME="ip_reverse Coverage Results" MODIFIED="1513740798984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plug/WebDetect/discuz_cms_detect" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="showsafecli.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/showsafecli.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="86" column="19" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="147" column="26" lean-forward="true" selection-start-line="147" selection-start-column="26" selection-end-line="147" selection-end-column="26" />
+              <folding>
+                <element signature="e#23#32#0" expanded="true" />
+                <marker date="1528854127110" expanded="true" signature="4131:4172" ph="select * fro... web_Appstore" />
+                <marker date="1528854127110" expanded="true" signature="5516:5551" ph="select url, job_status" />
+                <marker date="1528854127110" expanded="true" signature="5516:5555" ph="select * fro... job_status" />
+                <marker date="1528854127110" expanded="true" signature="5516:5574" ph="select * fro... job_status" />
+                <marker date="1528854127110" expanded="true" signature="5765:5783" ph="select * fro... web_webcate" />
+                <marker date="1528854127110" expanded="true" signature="5765:5802" ph="select * fro... web_webcategories" />
+                <marker date="1528854127110" expanded="true" signature="5765:5805" ph="select * fro... web_webcategories" />
+                <marker date="1528854127110" expanded="true" signature="5765:5806" ph="select * fro... web_Appstore" />
+                <marker date="1528854127110" expanded="true" signature="7728:7763" ph="select url, job_status" />
+                <marker date="1528854127110" expanded="true" signature="7728:7767" ph="select * fro... job_status" />
+                <marker date="1528854127110" expanded="true" signature="7728:7774" ph="select * fro... job_status" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Detect.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Plug/WebDetect/Detect.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="170" column="12" selection-start-line="170" selection-start-column="12" selection-end-line="170" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exp_module.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/lib/exp_module.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1030" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exp_http.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/lib/exp_http.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-524" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kwords_module.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/lib/kwords_module.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2628" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apps_new.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Plug/WebDetect/apps_new.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="9220" column="18" selection-start-line="9220" selection-start-column="18" selection-end-line="9220" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dedecms_search_typeArr_sqli.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/dedecms/dedecms_search_typeArr_sqli.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7370">
+              <caret line="335" column="30" selection-start-line="335" selection-start-column="30" selection-end-line="335" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>session</find>
+      <find>configure-tit</find>
+      <find>tr</find>
+      <find>^tr</find>
+      <find>table</find>
+      <find>#000000</find>
+      <find>dede</find>
+      <find>register_success_info</find>
+      <find>bac</find>
+      <find>jpg</find>
+      <find>token</find>
+      <find>contactModal</find>
+      <find>Aesma</find>
+      <find>back</find>
+      <find>logout</find>
+      <find>.pe-7s-close:before</find>
+      <find>login</find>
+      <find>aesma</find>
+      <find>slick-dots</find>
+      <find>Appstore</find>
+      <find>.icon</find>
+      <find>ico</find>
+      <find>.ico</find>
+      <find>favicon.ico</find>
+      <find>app.</find>
+      <find>hm.js.</find>
+      <find>wordpress</find>
+      <find>has_app</find>
+      <find>1</find>
+      <find>js</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>keyword</replace>
+      <replace>测试</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/Web Frameworks/struts2/__init__.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/WebFrameworks/struts2/struts2-devmode.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/WebFrameworks/struts2/__init__.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/lib/exp_module.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/conf/showsafe.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wp-ypo-filedownload.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wp-forcedownload.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/lib/exp_http.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/discuz/discuz_plugin_ques_sqli.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/discuz/discuz_focus_flashxss.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/discuz/discuz_forum_message_ssrf.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/discuz/discuz_x25_path_disclosure.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_admin_ajax_filedownload.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_display_widgets_backdoor.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_plugin_azonpop_sqli.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_plugin_ShortCode_lfi.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_restapi_sqli.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_url_redirect.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_woocommerce_code_exec.py" />
+        <option value="$PROJECT_DIR$/Plug/WebDetect/apps_new.json" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_plugin_mailpress_rce.py" />
+        <option value="$PROJECT_DIR$/static/templates/chresult.html" />
+        <option value="$PROJECT_DIR$/Plug/tools/db_connector.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_comment_storeXSS.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/dedecms/dedecms_version.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/dedecms/dedecms_search_typeArr_sqli.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/dedecms/dedecms_recommend_sqli.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/dedecms/dedecms_error_trace_disclosure.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/dedecms/dedecms_download_redirect.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/lib/sqlhelper.py" />
+        <option value="$PROJECT_DIR$/Plug/Db/sqlhelper.py" />
+        <option value="$PROJECT_DIR$/ShowSafe/settings.py" />
+        <option value="$PROJECT_DIR$/static/templates/register.html" />
+        <option value="$PROJECT_DIR$/static/css/base.css" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/static/templates/Aesma.html" />
+        <option value="$PROJECT_DIR$/static/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/static/templates/detect.html" />
+        <option value="$PROJECT_DIR$/static/css/waitjpg.css" />
+        <option value="$PROJECT_DIR$/static/templates/attack.html" />
+        <option value="$PROJECT_DIR$/static/templates/indexl.html" />
+        <option value="$PROJECT_DIR$/static/css/app.min.css" />
+        <option value="$PROJECT_DIR$/Web/models.py" />
+        <option value="$PROJECT_DIR$/static/templates/base.html" />
+        <option value="$PROJECT_DIR$/static/js/hm.js" />
+        <option value="$PROJECT_DIR$/ShowSafe/urls.py" />
+        <option value="$PROJECT_DIR$/static/templates/result.html" />
+        <option value="$PROJECT_DIR$/static/templates/index.html" />
+        <option value="$PROJECT_DIR$/Plug/WebDetect/Detect.py" />
+        <option value="$PROJECT_DIR$/Web/views.py" />
+        <option value="$PROJECT_DIR$/Plug/Attack_frameword/showsafecli.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="818" />
+    <option name="y" value="44" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyZoomEye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyZoomEye" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyZoomEye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyZoomEye" type="462c0819:PsiDirectoryNode" />
+              <item name="Plug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyZoomEye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyZoomEye" type="462c0819:PsiDirectoryNode" />
+              <item name="Plug" type="462c0819:PsiDirectoryNode" />
+              <item name="Attack_frameword" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyZoomEye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyZoomEye" type="462c0819:PsiDirectoryNode" />
+              <item name="Plug" type="462c0819:PsiDirectoryNode" />
+              <item name="Attack_frameword" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyZoomEye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyZoomEye" type="462c0819:PsiDirectoryNode" />
+              <item name="Plug" type="462c0819:PsiDirectoryNode" />
+              <item name="Attack_frameword" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyZoomEye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyZoomEye" type="462c0819:PsiDirectoryNode" />
+              <item name="Plug" type="462c0819:PsiDirectoryNode" />
+              <item name="WebDetect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyZoomEye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyZoomEye" type="462c0819:PsiDirectoryNode" />
+              <item name="ShowSafe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyZoomEye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyZoomEye" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyZoomEye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyZoomEye" type="462c0819:PsiDirectoryNode" />
+              <item name="Web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/python/MyZoomEye/Web/models.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ShowSafe/settings.py" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python\MyZoomEye\static\fonts" />
+      <recent name="E:\python\MyZoomEye\static\templates" />
+      <recent name="E:\python\MyZoomEye\static\images" />
+      <recent name="E:\python\MyZoomEye\static\css" />
+      <recent name="E:\python\MyZoomEye\static\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python\MyZoomEye\Plug\Attack_frameword\poc\messageboards" />
+      <recent name="E:\python\MyZoomEye\Plug\Attack_frameword\poc\WebFrameworks" />
+      <recent name="E:\python\MyZoomEye\Plug\Attack_frameword\poc\Databases" />
+      <recent name="E:\python\MyZoomEye\Plug\Attack_frameword\poc\Web Frameworks\struts2" />
+      <recent name="E:\python\MyZoomEye\Plug\WebDetect" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.sqlhelper">
+    <configuration name="Detect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShowSafe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Plug/WebDetect" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Plug/WebDetect/Detect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sqlhelper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShowSafe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Plug/Attack_frameword/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Plug/Attack_frameword/lib/sqlhelper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShowSafe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Plug/WebDetect" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Plug/WebDetect/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="wordpress_comment_storeXSS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShowSafe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_comment_storeXSS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="wordpress_plugin_mailpress_rce" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShowSafe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_plugin_mailpress_rce.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ShowSafe" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ShowSafe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ShowSafe" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ShowSafe" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ShowSafe" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ShowSafe" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ShowSafe" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="ShowSafe" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ShowSafe" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="ShowSafe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.ShowSafe" />
+      <item itemvalue="Python.Detect" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.wordpress_plugin_mailpress_rce" />
+      <item itemvalue="Python.wordpress_comment_storeXSS" />
+      <item itemvalue="Python.sqlhelper" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sqlhelper" />
+        <item itemvalue="Python.wordpress_comment_storeXSS" />
+        <item itemvalue="Python.wordpress_plugin_mailpress_rce" />
+        <item itemvalue="Python.Detect" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e1c03e5-152d-4e79-a19a-0e41aac134eb" name="Default" comment="" />
+      <created>1500254804347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500254804347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test__Plug_WebDetect_rule1_txt - 2018.01.13 at 14h 58m 24s.xml">
+      <configuration name="Test: Plug.WebDetect.rule1.txt" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51119405" side_tool="true" weight="0.31304348" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.49394855" weight="0.32826087" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49394855" weight="0.20326087" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.48880598" weight="0.31154683" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1913646" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32967034" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39782608" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32570806" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Web/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4444">
+          <caret line="202" column="29" lean-forward="true" selection-start-line="202" selection-start-column="29" selection-end-line="202" selection-end-column="29" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+            <marker date="1528854127110" expanded="true" signature="4131:4172" ph="select * fro... web_Appstore" />
+            <marker date="1528854127110" expanded="true" signature="5516:5551" ph="select url, job_status" />
+            <marker date="1528854127110" expanded="true" signature="5516:5555" ph="select * fro... job_status" />
+            <marker date="1528854127110" expanded="true" signature="5516:5574" ph="select * fro... job_status" />
+            <marker date="1528854127110" expanded="true" signature="5765:5783" ph="select * fro... web_webcate" />
+            <marker date="1528854127110" expanded="true" signature="5765:5802" ph="select * fro... web_webcategories" />
+            <marker date="1528854127110" expanded="true" signature="5765:5805" ph="select * fro... web_webcategories" />
+            <marker date="1528854127110" expanded="true" signature="5765:5806" ph="select * fro... web_Appstore" />
+            <marker date="1528854127110" expanded="true" signature="7728:7763" ph="select url, job_status" />
+            <marker date="1528854127110" expanded="true" signature="7728:7767" ph="select * fro... job_status" />
+            <marker date="1528854127110" expanded="true" signature="7728:7774" ph="select * fro... job_status" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_display_widgets_backdoor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_restapi_sqli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_woocommerce_code_exec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/chresult.html" />
+    <entry file="file://$PROJECT_DIR$/Plug/WebDetect/MutiThreadIdentification.py" />
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_plugin_azonpop_sqli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_comment_storeXSS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_admin_ajax_filedownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_url_redirect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/wordpress/wordpress_plugin_mailpress_rce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="54" column="55" lean-forward="true" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/dedecms/dedecms_version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="46" column="125" selection-start-line="46" selection-start-column="123" selection-end-line="46" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/tools/db_connector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Db/sqlhelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/jquery-1.4.2-result.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap-responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="407" column="13" selection-start-line="407" selection-start-column="13" selection-end-line="407" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/messageboards/discuz/discuz_focus_flashxss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShowSafe/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="62" column="28" lean-forward="true" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="241" column="36" lean-forward="true" selection-start-line="241" selection-start-column="36" selection-end-line="241" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/waitjpg.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2398">
+          <caret line="109" column="1" selection-start-line="109" selection-start-column="1" selection-end-line="109" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/indexl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/app.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="11934" column="40" selection-start-line="11934" selection-start-column="30" selection-end-line="11934" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/django/contrib/auth/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="262" column="8" selection-start-line="262" selection-start-column="8" selection-end-line="262" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/lib/sqlhelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-298">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/lib/scanner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1046" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/lib/ip_reverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.min.js." />
+    <entry file="file://$PROJECT_DIR$/static/js/hm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="229" column="52" lean-forward="true" selection-start-line="229" selection-start-column="52" selection-end-line="229" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140492">
+          <caret line="6392" column="20" selection-start-line="6392" selection-start-column="20" selection-end-line="6392" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShowSafe/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="116" column="23" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/detect.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/attack.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7370">
+          <caret line="335" column="30" selection-start-line="335" selection-start-column="30" selection-end-line="335" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/dedecms/dedecms_recommend_sqli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/dedecms/dedecms_search_typeArr_sqli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/WebDetect/apps_new.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="9220" column="18" selection-start-line="9220" selection-start-column="18" selection-end-line="9220" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/dedecms/dedecms_download_redirect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="7" column="3" selection-start-line="2" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/poc/CMS/dedecms/dedecms_error_trace_disclosure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/lib/exp_http.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-524" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/lib/kwords_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2628" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/lib/exp_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1030" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/WebDetect/Detect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="170" column="12" selection-start-line="170" selection-start-column="12" selection-end-line="170" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="147" column="26" lean-forward="true" selection-start-line="147" selection-start-column="26" selection-end-line="147" selection-end-column="26" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+            <marker date="1528854127110" expanded="true" signature="4131:4172" ph="select * fro... web_Appstore" />
+            <marker date="1528854127110" expanded="true" signature="5516:5551" ph="select url, job_status" />
+            <marker date="1528854127110" expanded="true" signature="5516:5555" ph="select * fro... job_status" />
+            <marker date="1528854127110" expanded="true" signature="5516:5574" ph="select * fro... job_status" />
+            <marker date="1528854127110" expanded="true" signature="5765:5783" ph="select * fro... web_webcate" />
+            <marker date="1528854127110" expanded="true" signature="5765:5802" ph="select * fro... web_webcategories" />
+            <marker date="1528854127110" expanded="true" signature="5765:5805" ph="select * fro... web_webcategories" />
+            <marker date="1528854127110" expanded="true" signature="5765:5806" ph="select * fro... web_Appstore" />
+            <marker date="1528854127110" expanded="true" signature="7728:7763" ph="select url, job_status" />
+            <marker date="1528854127110" expanded="true" signature="7728:7767" ph="select * fro... job_status" />
+            <marker date="1528854127110" expanded="true" signature="7728:7774" ph="select * fro... job_status" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plug/Attack_frameword/showsafecli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="86" column="19" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

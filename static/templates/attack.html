@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+<html>
+<body>
+{% block page-content %}
+    {% ifequal info 'Non-permission' %}
+        <h1><font color='write'>{{ info }}</font></h1>
+    {% else %}
+        <div class="span12">
+            <h2>
+                <font color="#E0E0E0">针对指纹识别结果使用poc批量测试</font>
+            </h2>
+            <br><br>
+            <form id="search_form" class="wmap" method="POST" action="/attack/">
+                {% csrf_token %}
+                <input class="text" type="text" name="cmd" autocomplete="off" data-provide="typeahead">
+                <input id="search_btn" class="btn btn-info" type="submit" value="执行">
+            </form>
+            <br/><br/>
+            <br/><br/>
+            {% if results and results != 'nopoc' %}
+                <table class="table table-striped table-bordered">
+                    <tbody>
+                    <tr>
+                        <td style="color:white;">编号</td>
+                        <td style="color:white;">url</td>
+                        <td style="color:white;">测试组件的poc</td>
+                        <td style="color:white;" align="center">结果</td>
+                    </tr>
+                    {% for column in results %}
+                        <tr>
+                            {% for line in column %}
+                                {% if '[+]' in line %}
+                                    <td style="color:red;">{{ line }} </td>
+                                {% else %}
+                                    <td style="color:white;">{{ line }} </td>
+                                {% endif %}
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            {% else %}
+                {% if results == 'nopoc' %}
+                    <h4 style="color:red">指纹识别结果暂时没有相应poc,请查看指纹识别结果尝试手动测试!</h4>
+                {% endif %}
+            {% endif %}
+        </div>
+    {% endifequal %}
+{% endblock %}
+</body>
+</html>
+
