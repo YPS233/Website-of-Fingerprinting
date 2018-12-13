@@ -20,7 +20,7 @@ sudo apt-get install python-dev
 ```
 start:
 ```
-move to manage path
+move to the path of manage.py
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
