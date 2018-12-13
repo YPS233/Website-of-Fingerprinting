@@ -23,7 +23,7 @@ sudo apt-get install python-dev
 start:
 ```
 # move to the path of manage.py
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py runserver
 ```
