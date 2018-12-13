@@ -13,6 +13,7 @@ pip3 install chardet
 pip3 install termcolor
 ```
 if you want run it on Linux,you need install some package:
+```
 sudo apt-get install python-setuptools
 sudo apt-get install libmysqld-dev
 sudo apt-get install python-dev
