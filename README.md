@@ -4,6 +4,7 @@ Website Fingerprinting and Vulnerability Detection Tools
 
 ### Environment
 This project base on python3.5&Django1.11,mysql.
+
 Install:
 ```
 pip3 install pyes 
@@ -20,7 +21,7 @@ sudo apt-get install python-dev
 ```
 start:
 ```
-move to the path of manage.py
+# move to the path of manage.py
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
